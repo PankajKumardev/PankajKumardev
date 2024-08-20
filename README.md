@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -45,7 +45,8 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://x.com/Pankajkumar_dev" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" height="30" width="30" />
+    <img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgZmlsbD0ibm9uZSI+PGc+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiNmZmYiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9IkMxOTkuNTcyIDkxLjQxMS44OCAyLjU2IDE0Ljc3IDE1OS44MjcgNzIuMjgyYTE4LjQyOCAxOC40MjMgMCAwIDAgMTEuNDMwIDMwLjk1OCAxMy44OCAxOC43MzMgMCAwIDAtMTkuNjIzIDI5LjYyMy0zNi4xOTIgMCAwIDAtMTcuMjI4LTM3LjcwOCAxNC4yNCA1LjMxMCAxMy44MTQtMTAuNjgzIDM2Ljk4OC02LjI2Ni0yMS4yMjMtMzMuNDUyLTExLjQzLTM5Ljc0IC0xOS42MDggMi4wMDQgMjQuNzgzLTMuMzI2IDE0LjEyMi0yOC4yOTIgMTcuMjMgNi4wNTYgMjMuNDUxQDM4LjI3IDMwLTcuNDc3IDIwLjUyIDE3LjUxNiA0NS44NjUtMTUuODM5Ii8+PC9nPjwvc3ZnPg=="
+    alt="Twitter" height="30" width="30" />
   </a>
 </p>
 
