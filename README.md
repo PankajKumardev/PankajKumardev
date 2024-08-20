@@ -1,20 +1,10 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/PankajKumardev)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/PankajKumardev)
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PankajKumardev&label=Profile%20views&color=0e75b6&style=flat" alt="PankajKumardev" /> </p>
-
-- 🔭 I’m currently working on **[Salesforce Clone](https://github.com/PankajKumardev/salesforce-clone)**
-
-- 🌱 I’m currently learning **ReactJS & Tailwind CSS**
-
-- 💬 Ask me about **JavaScript, CSS, HTML, React**
-
-- 📫 How to reach me **[pankajkumardev0@gmail.com](mailto:pankajkumardev0@gmail.com)**
-
-- ⚡ Fun fact **I love solving puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +26,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 </p>
-
-[![Pankaj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PankajKumardev&theme=xcode)](https://github.com/PankajKumardev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PankajKumardev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PankajKumardev" /></p>
 
