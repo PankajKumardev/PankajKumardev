@@ -46,6 +46,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PankajKumardev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PankajKumardev" /></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajKumardev&theme=tokyonight" alt="GitHub Streak" />
