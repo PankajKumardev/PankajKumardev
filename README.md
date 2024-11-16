@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/>
   </a>
 
-  https://github-readme-streak-stats.herokuapp.com/?user=pankajkumardev&theme=dark
+ 
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,11 @@
   </a>
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PankajKumardev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PankajKumardev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PankajKumardev&show_icons=true&locale=en&theme=tokyonight" alt="PankajKumardev" /></p>
+
+<h3 align="left">GitHub Streak:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajKumardev&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
