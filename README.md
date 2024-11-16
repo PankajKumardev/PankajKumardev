@@ -47,11 +47,12 @@
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PankajKumardev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PankajKumardev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PankajKumardev&show_icons=true&locale=en&theme=tokyonight" alt="PankajKumardev" /></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajKumardev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PankajKumardev&show_icons=true&locale=en&theme=tokyonight" alt="PankajKumardev" /></p>
+
 
 
