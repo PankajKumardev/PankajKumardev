@@ -45,6 +45,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+![Your streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pankajkumardev&theme=dark)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PankajKumardev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PankajKumardev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PankajKumardev&show_icons=true&locale=en&theme=tokyonight" alt="PankajKumardev" /></p>
