@@ -40,7 +40,6 @@
 
  
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PankajKumardev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PankajKumardev" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pankajkumardev0/" target="blank">
