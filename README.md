@@ -8,7 +8,7 @@ I specialize in full-stack development with Next.js and Express.js, using TypeSc
 
 * 🌍  I'm based in Delhi
 * 🖥️  See my portfolio at [Pankajk.tech](http://pankajk.tech)
-* ✉️  You can contact me at [pankajams1234@gmail. com](mailto:pankajams1234@gmail.com)
+* ✉️  You can contact me at [pankajams1234@gmail.com](mailto:pankajams1234@gmail.com)
 * ⚡  I’m looking to collaborate on Web Apps, Hackathons ,Tech Events
 
 ### Skills
